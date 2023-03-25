@@ -5,7 +5,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[Chinese CV [PDF]]https://github.com/superlj666/superlj666.github.io/blob/master/files/cv/UCAS_PhD_lijian.pdf
+[Chinese CV [PDF]](https://bosshu1212.github.io/files/cv/CV_Chinese.pdf)
 
 # Contact
 School of Economics, Zhejiang University<br>
