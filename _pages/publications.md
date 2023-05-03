@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Journal Publications
+======
 ## 2022
 * <b>跨境电子商务对我国企业出口市场组合风险的影响</b>.<br>
 马述忠, <b>胡增玺*</b>.
@@ -22,3 +24,11 @@ author_profile: true
 胡翠, <b>胡增玺*</b>,许召元.
 <i>经济科学</i>,2021,No.241(01):18-30..<br>
 [[PDF]](https://bosshu1212.github.io/files/publications/2021目的国风险与出口商品质量_胡翠.pdf)
+
+
+Book Chapters/Monographs
+======
+马述忠、濮方清、潘钢健、熊立春. 数字贸易学. 北京：高等教育出版社2022年6月第1版. 540千字. 撰写章节《智能制造》 .<br>
+马述忠、胡增玺. 数字经济时代中国在全球经济治理机制变革中的角色定位.数字经济蓝皮书：中国数字经济前沿（2021）. 社会科学文献出版社2021年5月版. 253-276. .<br>
+
+
