@@ -7,6 +7,13 @@ author_profile: true
 
 Journal Publications
 ======
+## 2023
+* <b>市场一体化对企业数字创新的影响——兼论数字创新衡量方法</b>.<br>
+<b>胡增玺*</b>., 马述忠
+<i>经济研究</i>,2023  .<br>
+[未删减版[PDF]](https://bosshu1212.github.io/files/publications/2023_未删减_市场一体化对企业数字创新的影响_兼论数字创新的衡量方法.pdf)
+
+======
 ## 2022
 * <b>跨境电子商务对我国企业出口市场组合风险的影响</b>.<br>
 马述忠, <b>胡增玺*</b>.
