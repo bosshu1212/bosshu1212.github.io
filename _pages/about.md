@@ -12,12 +12,12 @@ Dr. Zengxihu is a Ph.D. Candidate of Economics at the School of Economics, Zheji
 
 Education
 ======
-Ph.D in International Trade                                             2024(Expected) .<br>
-Zhejiang University .<br>
-Bachelor of Business  International Trade/Financial Risk Management     2019 .<br>
-Victoria University, Australia .<br>
-Bachelor in Economics International Economics and Trade                 2019 .<br>
-Central University of Finance and Economics .<br>
+* <b>Ph.D in International Trade</b>                                             2024(Expected) .<br>
+<b>Zhejiang University</b>   .<br>
+* <b>Bachelor of Business  International Trade/Financial Risk Management</b>     2019 .<br>
+<b>Victoria University, Australia</b> .<br>
+* <b>Bachelor in Economics International Economics and Trade</b>                 2019 .<br>
+<b>Central University of Finance and Economics</b> .<br>
 
 
 Research Interest
