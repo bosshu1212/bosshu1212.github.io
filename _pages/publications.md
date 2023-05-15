@@ -19,7 +19,7 @@ Journal Publications
 [[PDF]](https://bosshu1212.github.io/files/publications/2022_1跨境电子商务对我国企业出口市场组合风险的影响_马述忠.pdf)
 
 * <b>数字金融是否影响劳动力流动?——基于中国流动人口的微观视角</b><br>
-马述忠、<b>胡增玺*</b>，<i>经济学(季刊)</i>，2022，22(01)：303-322.<br>
+马述忠、<b>胡增玺*</b>，<i>经济学（季刊）</i>，2022，22(01)：303-322.<br>
 [[PDF]](https://bosshu1212.github.io/files/publications/2022_2数字金融是否影响劳动力流动...基于中国流动人口的微观视角_马述忠.pdf)
 
 
