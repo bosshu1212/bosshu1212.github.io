@@ -27,7 +27,7 @@ Shuzhong Ma &nbsp; & &nbsp;<b>Zengxi Hu*</b>, &nbsp; <i>The World Economy</i>, &
 
 
 ## 2021
-* <b>跨境电子商务对我国企业出口市场组合风险的影响</b>.<br>
+* <b>目的国风险与出口商品质量</b>.<br>
 胡翠、<b>胡增玺*</b>、许召元，<i>经济科学</i>，2021，241(01)：18-30.<br>
 [[PDF]](https://bosshu1212.github.io/files/publications/2021目的国风险与出口商品质量_胡翠.pdf)
 
