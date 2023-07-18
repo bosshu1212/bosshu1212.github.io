@@ -10,7 +10,7 @@ Journal Publications
 ## 2023
 * <b>市场一体化对企业数字创新的影响——兼论数字创新衡量方法</b><br>
 <b>胡增玺*</b>、马述忠，<i>经济研究</i>，2023，58(06)：155-172. <br>
-[未删减版[PDF]](https://bosshu1212.github.io/files/publications/2023_未删减_市场一体化对企业数字创新的影响_兼论数字创新的衡量方法.pdf) &nbsp [[PDF]](https://bosshu1212.github.io/files/publications/2022_2数字金融是否影响劳动力流动...基于中国流动人口的微观视角_马述忠.pdf)
+[未删减版[PDF]](https://bosshu1212.github.io/files/publications/2023_未删减_市场一体化对企业数字创新的影响_兼论数字创新的衡量方法.pdf) &nbsp; [[PDF]](https://bosshu1212.github.io/files/publications/2022_2数字金融是否影响劳动力流动...基于中国流动人口的微观视角_马述忠.pdf)
 
 * <b>Internet penetration and multi-product exporters: Firm-level evidence from China.</b> <br> 
 Shuzhong Ma &nbsp; & &nbsp;<b>Zengxi Hu*</b>, &nbsp; <i>The World Economy</i>, &nbsp; 2023, &nbsp; The World Economy, &nbsp; 46(5), &nbsp; 1444-1470.<br>
