@@ -9,4 +9,8 @@ author_profile: true
 马述忠、<b>胡增玺*</b>、张洪胜.<br>
 《管理世界》在审
 
+* <b>Internet Linkage and International Trade: From the Perspective of Risk Alleviation</b>.<br>
+With Jie Duan (NUS) .<br>
+Under review at The World Economy
+
 
