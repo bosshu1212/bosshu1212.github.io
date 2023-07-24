@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Zengxihu is a Ph.D. Candidate of Economics at the School of Economics, Zhejiang University. His research interests include Digital Innovation, NLP and Machine Learning (LLM), Digital Trade (E-commerce Platform) and China Government. His recent work has appeared in journals such as 《经济研究》（Economic Research Journal, Top 1 Journal of Economics in China）, 经济学（季刊）, 财贸经济, The World Economy, among others. See more details in [CV](https://bosshu1212.github.io/files/cv/CV_Chinese.pdf).
+Dr. Zengxihu is a Ph.D. Candidate of Economics at the School of Economics, Zhejiang University. His research interests include Digital Innovation, NLP and Machine Learning (LLM), Digital Trade (E-commerce Platform) and China Government. His recent work has appeared in journals such as 《经济研究》, 经济学（季刊）, 财贸经济, The World Economy, among others. See more details in [CV](https://bosshu1212.github.io/files/cv/CV_Chinese.pdf).
 
 Education
 ======
