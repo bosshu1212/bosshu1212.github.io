@@ -11,6 +11,6 @@ author_profile: true
 
 * <b>Internet Linkage and International Trade: From the Perspective of Risk Alleviation</b>.<br>
 With Jie Duan (NUS) .<br>
-Under review at The World Economy
+
 
 
