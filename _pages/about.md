@@ -14,16 +14,13 @@ Education
 ======
 * <b>Ph.D in Economics</b> &emsp; <i>International Trade</i> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2024(Expected) <br>
 <b>Zhejiang University</b>   <br>
-* <b>Bachelor of Business</b> &emsp; <i>International Trade/Financial Risk Management</i> &ensp; 2019 <br>
-<b>Victoria University, Australia</b> <br>
 * <b>Bachelor in Economics</b> &emsp; <i>International Economics and Trade</i> &emsp; &emsp; &emsp; &emsp; 2019 <br>
 <b>Central University of Finance and Economics</b> <br>
 
 
 Research Interest
 ======
-Main: Digital Innovation, NLP and Machine Learning (LLM) <br>
-Others: Digital Trade (E-commerce Platform), China Government <br>
+Digital Economy (Digital Technology, NLP and Machine Learning (LLM)); International Trade and Policy (E-commerce); Knowledge Diffusion.
 
 
 
