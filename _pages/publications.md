@@ -13,7 +13,7 @@ Journal Publications
 [未删减版[PDF]](https://bosshu1212.github.io/files/publications/2023_未删减_市场一体化对企业数字创新的影响_兼论数字创新的衡量方法.pdf) &nbsp; [[PDF]](https://bosshu1212.github.io/files/publications/2023市场一体化对企业数字创新的影响_胡增玺.pdf)
 
 * <b>Internet penetration and multi-product exporters: Firm-level evidence from China.</b> <br> 
-Shuzhong Ma &nbsp; & &nbsp;<b>Zengxi Hu*</b>, &nbsp; <i>The World Economy</i>, &nbsp; 2023, &nbsp; The World Economy, &nbsp; 46(5), &nbsp; 1444-1470.<br>
+Shuzhong Ma &nbsp; & &nbsp;<b>Zengxi Hu*</b>, &nbsp; <i>The World Economy</i>, &nbsp; 2023, &nbsp; 46(5), &nbsp; 1444-1470.<br>
 [[PDF]](https://bosshu1212.github.io/files/publications/2023_1Internet penetration and multi‐product exporters Firm‐level evidence from China.pdf)
 
 ## 2022
